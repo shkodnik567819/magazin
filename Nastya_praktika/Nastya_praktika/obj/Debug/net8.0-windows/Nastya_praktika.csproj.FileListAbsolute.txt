@@ -1,0 +1,46 @@
+D:\praktika\Nastya_praktika\Nastya_praktika\obj\Debug\net8.0-windows\Nastya_praktika.csproj.GenerateResource.cache
+D:\praktika\Nastya_praktika\Nastya_praktika\obj\Debug\net8.0-windows\Nastya_praktika.GeneratedMSBuildEditorConfig.editorconfig
+D:\praktika\Nastya_praktika\Nastya_praktika\obj\Debug\net8.0-windows\Nastya_praktika.AssemblyInfoInputs.cache
+D:\praktika\Nastya_praktika\Nastya_praktika\obj\Debug\net8.0-windows\Nastya_praktika.AssemblyInfo.cs
+D:\praktika\Nastya_praktika\Nastya_praktika\obj\Debug\net8.0-windows\Nastya_praktika.csproj.CoreCompileInputs.cache
+D:\praktika\Nastya_praktika\Nastya_praktika\bin\Debug\net8.0-windows\Nastya_praktika.exe
+D:\praktika\Nastya_praktika\Nastya_praktika\bin\Debug\net8.0-windows\Nastya_praktika.deps.json
+D:\praktika\Nastya_praktika\Nastya_praktika\bin\Debug\net8.0-windows\Nastya_praktika.runtimeconfig.json
+D:\praktika\Nastya_praktika\Nastya_praktika\bin\Debug\net8.0-windows\Nastya_praktika.dll
+D:\praktika\Nastya_praktika\Nastya_praktika\bin\Debug\net8.0-windows\Nastya_praktika.pdb
+D:\praktika\Nastya_praktika\Nastya_praktika\obj\Debug\net8.0-windows\Nastya_praktika.dll
+D:\praktika\Nastya_praktika\Nastya_praktika\obj\Debug\net8.0-windows\refint\Nastya_praktika.dll
+D:\praktika\Nastya_praktika\Nastya_praktika\obj\Debug\net8.0-windows\Nastya_praktika.pdb
+D:\praktika\Nastya_praktika\Nastya_praktika\obj\Debug\net8.0-windows\Nastya_praktika.genruntimeconfig.cache
+D:\praktika\Nastya_praktika\Nastya_praktika\obj\Debug\net8.0-windows\ref\Nastya_praktika.dll
+D:\praktika\Nastya_praktika\Nastya_praktika\obj\Debug\net8.0-windows\Nastya_praktika.Properties.Resources.resources
+D:\praktika\Nastya_praktika\Nastya_praktika\obj\Debug\net8.0-windows\Nastya_praktika.AuthForm.resources
+D:\praktika\Nastya_praktika\Nastya_praktika\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\praktika\Nastya_praktika\Nastya_praktika\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\praktika\Nastya_praktika\Nastya_praktika\bin\Debug\net8.0-windows\Npgsql.dll
+D:\praktika\Nastya_praktika\Nastya_praktika\obj\Debug\net8.0-windows\Nastya_praktika.csproj.AssemblyReference.cache
+D:\praktika\Nastya_praktika\Nastya_praktika\obj\Debug\net8.0-windows\Nastya_p.176AA198.Up2Date
+D:\praktika\Nastya_praktika\Nastya_praktika\obj\Debug\net8.0-windows\Nastya_praktika.StringExtensions.resources
+C:\Users\nasta\OneDrive\Desktop\Новая папка (2)\Nastya_praktika\Nastya_praktika\bin\Debug\net8.0-windows\Nastya_praktika.exe
+C:\Users\nasta\OneDrive\Desktop\Новая папка (2)\Nastya_praktika\Nastya_praktika\bin\Debug\net8.0-windows\Nastya_praktika.deps.json
+C:\Users\nasta\OneDrive\Desktop\Новая папка (2)\Nastya_praktika\Nastya_praktika\bin\Debug\net8.0-windows\Nastya_praktika.runtimeconfig.json
+C:\Users\nasta\OneDrive\Desktop\Новая папка (2)\Nastya_praktika\Nastya_praktika\bin\Debug\net8.0-windows\Nastya_praktika.dll
+C:\Users\nasta\OneDrive\Desktop\Новая папка (2)\Nastya_praktika\Nastya_praktika\bin\Debug\net8.0-windows\Nastya_praktika.pdb
+C:\Users\nasta\OneDrive\Desktop\Новая папка (2)\Nastya_praktika\Nastya_praktika\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nasta\OneDrive\Desktop\Новая папка (2)\Nastya_praktika\Nastya_praktika\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nasta\OneDrive\Desktop\Новая папка (2)\Nastya_praktika\Nastya_praktika\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\nasta\OneDrive\Desktop\Новая папка (2)\Nastya_praktika\Nastya_praktika\obj\Debug\net8.0-windows\Nastya_praktika.csproj.AssemblyReference.cache
+C:\Users\nasta\OneDrive\Desktop\Новая папка (2)\Nastya_praktika\Nastya_praktika\obj\Debug\net8.0-windows\Nastya_praktika.AuthForm.resources
+C:\Users\nasta\OneDrive\Desktop\Новая папка (2)\Nastya_praktika\Nastya_praktika\obj\Debug\net8.0-windows\Nastya_praktika.StringExtensions.resources
+C:\Users\nasta\OneDrive\Desktop\Новая папка (2)\Nastya_praktika\Nastya_praktika\obj\Debug\net8.0-windows\Nastya_praktika.Properties.Resources.resources
+C:\Users\nasta\OneDrive\Desktop\Новая папка (2)\Nastya_praktika\Nastya_praktika\obj\Debug\net8.0-windows\Nastya_praktika.csproj.GenerateResource.cache
+C:\Users\nasta\OneDrive\Desktop\Новая папка (2)\Nastya_praktika\Nastya_praktika\obj\Debug\net8.0-windows\Nastya_praktika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasta\OneDrive\Desktop\Новая папка (2)\Nastya_praktika\Nastya_praktika\obj\Debug\net8.0-windows\Nastya_praktika.AssemblyInfoInputs.cache
+C:\Users\nasta\OneDrive\Desktop\Новая папка (2)\Nastya_praktika\Nastya_praktika\obj\Debug\net8.0-windows\Nastya_praktika.AssemblyInfo.cs
+C:\Users\nasta\OneDrive\Desktop\Новая папка (2)\Nastya_praktika\Nastya_praktika\obj\Debug\net8.0-windows\Nastya_praktika.csproj.CoreCompileInputs.cache
+C:\Users\nasta\OneDrive\Desktop\Новая папка (2)\Nastya_praktika\Nastya_praktika\obj\Debug\net8.0-windows\Nastya_p.176AA198.Up2Date
+C:\Users\nasta\OneDrive\Desktop\Новая папка (2)\Nastya_praktika\Nastya_praktika\obj\Debug\net8.0-windows\Nastya_praktika.dll
+C:\Users\nasta\OneDrive\Desktop\Новая папка (2)\Nastya_praktika\Nastya_praktika\obj\Debug\net8.0-windows\refint\Nastya_praktika.dll
+C:\Users\nasta\OneDrive\Desktop\Новая папка (2)\Nastya_praktika\Nastya_praktika\obj\Debug\net8.0-windows\Nastya_praktika.pdb
+C:\Users\nasta\OneDrive\Desktop\Новая папка (2)\Nastya_praktika\Nastya_praktika\obj\Debug\net8.0-windows\Nastya_praktika.genruntimeconfig.cache
+C:\Users\nasta\OneDrive\Desktop\Новая папка (2)\Nastya_praktika\Nastya_praktika\obj\Debug\net8.0-windows\ref\Nastya_praktika.dll
